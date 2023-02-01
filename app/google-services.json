@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "518998338315",
+    "project_id": "sign-language-490aa",
+    "storage_bucket": "sign-language-490aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518998338315:android:98ba33b04a76e7d962100e",
+        "android_client_info": {
+          "package_name": "com.example.imagepro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518998338315-svhg3pejsin1hdqc10r6btnvno6dkcq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQtXtDGC3SgTsaNlzwdQcYlezeo9lWME8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518998338315-svhg3pejsin1hdqc10r6btnvno6dkcq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
