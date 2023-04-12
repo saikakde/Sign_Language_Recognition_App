@@ -334,10 +334,34 @@ public class  signLanguageClass {
             val="W";
         }else if(sign_v>=22.5 & sign_v<23.5){
             val="X";
-        }else {
+        }else if(sign_v>=23.5 & sign_v<24.5){
             val="Y";
+        }else {
+            val="Z";
         }
-
+//        else if(sign_v>=24.5 & sign_v<25.5){
+//            val="Z";
+//        }else if(sign_v>=25.5 & sign_v<26.5){
+//            val="0";
+//        }else if(sign_v>=26.5 & sign_v<27.5){
+//            val="1";
+//        }else if(sign_v>=27.5 & sign_v<28.5){
+//            val="2";
+//        }else if(sign_v>=28.5 & sign_v<29.5){
+//            val="3";
+//        }else if(sign_v>=29.5 & sign_v<30.5){
+//            val="4";
+//        }else if(sign_v>=30.5 & sign_v<31.5){
+//            val="5";
+//        }else if(sign_v>=31.5 & sign_v<32.5){
+//            val="6";
+//        }else if(sign_v>=32.5 & sign_v<33.5){
+//            val="7";
+//        }else if(sign_v>=33.5 & sign_v<34.5){
+//            val="8";
+//        }else {
+//            val="9";
+//        }
         return val;
     }
 
